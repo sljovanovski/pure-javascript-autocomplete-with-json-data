@@ -4,3 +4,7 @@ Example of autocomplete text box using ONLY javascript, pulling data from local 
 Getting the data using jQuery $.getJSON()
 
 demo http://www.vilapavia.com.mk/demo/
+
+Test with this keywords: 
+ - "Kuala"
+ - "Sin"
