@@ -1,0 +1,148 @@
+.header {
+    background: #488ac5;
+    height: 56px;
+    padding: 4px;
+    vertical-align: middle;
+    color: white;
+}
+
+.content {
+    background: #11323e;
+    color: #c7ddef;
+    padding: 15px;
+    margin: auto;
+    min-height: 550px;
+}
+
+.title h3 {
+    letter-spacing: 1px;
+    font-size: 27px;
+    margin-bottom: 17px;
+    margin-top: 17px;
+}
+
+.m7 {
+    margin-top: 7px;
+}
+
+.p7 {
+    padding: 7px;
+    height: 44px;
+}
+
+#result {
+    overflow: scroll;
+    min-height: 0px;
+    max-height: 0px;
+    color: grey;
+    background: white;
+}
+
+#result .result-row {
+    padding: 10px;
+    margin:0px;
+}
+
+#result h6 {
+    padding-left: 10px;
+}
+
+#result .result-row:hover {
+    background: #337ab7;
+    cursor: pointer;
+    color: white;
+}
+
+/* enable absolute positioning */
+.inner-addon {
+    position: relative;
+}
+
+/* style glyph */
+.inner-addon .glyphicon {
+    position: absolute;
+    padding: 10px;
+    pointer-events: none;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.small-text {
+    font-size: 10px;
+    padding-left: 22px !important;
+    margin-top: -2px;
+}
+
+.myBtn {
+    background: white !important;
+    border: 1px solid #fff;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.resultList {
+    transition: 0.2s;
+    position: relative;
+    top: 0px;
+    width: 100%;
+    left: 0;
+}
+
+*:focus {
+    outline: 0;
+    border: 0px solid white;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+
+.search-area {
+    border-bottom: solid 1px #dadada;
+}
+
+.right-menu {
+    padding-right: 10px;
+    letter-spacing: 1px;
+}
+
+.btnSearch {
+    background: #72bbf2;
+    font-size: 14px;
+}
+
+.show-results {
+    transition: 0.3s;
+    position: absolute;
+    top: -72px;
+    z-index: 2;
+    left: 0;
+}
+
+@media screen and (max-width: 991px) {
+    .show-results {
+        transition: 0.3s;
+        position: absolute;
+        top: -90px;
+        z-index: 2;
+        left: 0;
+    }
+}
+
+.result-title {
+    padding-left: 10px;
+}
+
+.main-result-holder {
+    margin-top: -5px;
+}
+
+.recent-popular {
+    color: #f3cea3;
+    font-weight: bold;
+}
+
+.pl3{
+    padding-left: 3px;
+}

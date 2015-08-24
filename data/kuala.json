@@ -1,0 +1,191 @@
+{
+  "term": "kuala",
+  "results": {
+    "city": [
+      {
+        "id": 35691,
+        "term": "Kuala Lumpur, Malaysia",
+        "data": {
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": 101.686856,
+          "latitude": 3.139003,
+          "type": "city",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": "",
+          "hotel_count": 340
+        },
+        "score": 352
+      },
+      {
+        "id": 21162,
+        "term": "Kuala Terengganu, Malaysia",
+        "data": {
+          "dest_id": "3c2ca084-1679-40c5-69de-75fa316ce93b",
+          "longitude": 103.141536712647,
+          "latitude": 5.32942220645931,
+          "type": "city",
+          "city": "Kuala Terengganu",
+          "country": "Malaysia",
+          "state": "",
+          "hotel_count": 33
+        },
+        "score": 3
+      }
+    ],
+    "poi": [
+      {
+        "id": 84118,
+        "term": "Kuala Lumpur City Gallery",
+        "data": {
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": 101.693208,
+          "latitude": 3.14737,
+          "type": "museums",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": "",
+          "hotel_count": 340
+        },
+        "score": 0
+      },
+      {
+        "id": 72956,
+        "term": "Kuala Lumpur Deer Park",
+        "data": {
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": 101.685284,
+          "latitude": 3.144753,
+          "type": "icecream",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": "",
+          "hotel_count": 340
+        },
+        "score": 0
+      },
+      {
+        "id": 68757,
+        "term": "Kuala Kedah Fort (Kota Kuala Kedah)",
+        "data": {
+          "dest_id": "7d960051-b87b-4e00-6004-94ab028a9836",
+          "longitude": 100.287089,
+          "latitude": 6.108869,
+          "type": "historic",
+          "city": "Alor Setar",
+          "country": "Malaysia",
+          "state": "",
+          "hotel_count": 0
+        },
+        "score": 0
+      },
+      {
+        "id": 63154,
+        "term": "Kuala Lumpur Convention Centre",
+        "data": {
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": 101.71215,
+          "latitude": 3.154292,
+          "type": "civic",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": "",
+          "hotel_count": 340
+        },
+        "score": 0
+      },
+      {
+        "id": 63144,
+        "term": "Kuala Lumpur Tower",
+        "data": {
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": 101.703333,
+          "latitude": 3.152778,
+          "type": "monument",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": "",
+          "hotel_count": 340
+        },
+        "score": 0
+      }
+    ],
+    "hotel": [
+      {
+        "id": 19203,
+        "term": "Swiss Inn Kuala Lumpur",
+        "data": {
+          "hotel_id": "10d7a792-11ab-4c58-63ff-d3212cf4a648",
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": "101.6985665",
+          "latitude": "3.1437983",
+          "type": "hotel",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": ""
+        },
+        "score": 79845
+      },
+      {
+        "id": 75838,
+        "term": "Grand Millennium Kuala Lumpur",
+        "data": {
+          "hotel_id": "f530271f-1c9c-48cf-7110-f75189f46a21",
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": "101.712198",
+          "latitude": "3.148004",
+          "type": "hotel",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": ""
+        },
+        "score": 78450
+      },
+      {
+        "id": 119004,
+        "term": "Parkroyal Kuala Lumpur",
+        "data": {
+          "hotel_id": "4fda1f26-ad0a-435f-640d-6e0d3df482ce",
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": "101.71236",
+          "latitude": "3.14459",
+          "type": "hotel",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": ""
+        },
+        "score": 75206
+      },
+      {
+        "id": 87320,
+        "term": "Swiss Garden Hotel Kuala Lumpur",
+        "data": {
+          "hotel_id": "3717451f-4d93-4dc2-6dc7-d8f1b4365257",
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": "101.7056",
+          "latitude": "3.1442",
+          "type": "hotel",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": ""
+        },
+        "score": 73603
+      },
+      {
+        "id": 132994,
+        "term": "E&O Residences Kuala Lumpur",
+        "data": {
+          "hotel_id": "f3f7c263-1a86-46b5-4ae2-7e09192ab6bb",
+          "dest_id": "659197a6-62c1-4636-768b-3fcb2ebc0ecf",
+          "longitude": "101.70809",
+          "latitude": "3.15163",
+          "type": "hotel",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia",
+          "state": ""
+        },
+        "score": 72289
+      }
+    ]
+  }
+}

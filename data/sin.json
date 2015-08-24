@@ -1,0 +1,236 @@
+{
+  "term": "sin",
+  "results": {
+    "city": [
+      {
+        "id": 87099,
+        "term": "Singapore, Singapore",
+        "data": {
+          "dest_id": "f75a8cff-c26e-4603-7b45-1b0f8a5aa100",
+          "longitude": 103.8509491,
+          "latitude": 1.2800945,
+          "type": "city",
+          "city": "Singapore",
+          "country": "Singapore",
+          "state": "",
+          "hotel_count": 104
+        },
+        "score": 1802
+      },
+      {
+        "id": 80035,
+        "term": "Sentosa, Singapore",
+        "data": {
+          "dest_id": "e37e62e1-d21c-4393-42fb-507dddad7e6f",
+          "longitude": 103.828654289246,
+          "latitude": 1.24976736984118,
+          "type": "city",
+          "city": "Sentosa",
+          "country": "Singapore",
+          "state": "",
+          "hotel_count": 106
+        },
+        "score": 74
+      },
+      {
+        "id": 33612,
+        "term": "Singen, Germany",
+        "data": {
+          "dest_id": "5f949702-71af-4957-47ea-b58e3dfeab43",
+          "longitude": 8.5693359375,
+          "latitude": 48.9583552367,
+          "type": "city",
+          "city": "Singen",
+          "country": "Germany",
+          "state": "",
+          "hotel_count": 72
+        },
+        "score": 4
+      },
+      {
+        "id": 9415,
+        "term": "Sintra, Portugal",
+        "data": {
+          "dest_id": "1a7dce31-d1a6-4340-45bc-9eabbbd506fd",
+          "longitude": -9.371752,
+          "latitude": 38.801321,
+          "type": "city",
+          "city": "Sintra",
+          "country": "Portugal",
+          "state": "",
+          "hotel_count": 148
+        },
+        "score": 1
+      },
+      {
+        "id": 89257,
+        "term": "Mazatlan, SINALOA, Mexico",
+        "data": {
+          "dest_id": "fd9dbe36-0ab5-4a8a-7a1b-f61609878369",
+          "longitude": -106.413574219,
+          "latitude": 23.2153179171,
+          "type": "city",
+          "city": "Mazatlan",
+          "country": "Mexico",
+          "state": "SINALOA",
+          "hotel_count": 27
+        },
+        "score": 1
+      }
+    ],
+    "poi": [
+      {
+        "id": 9868,
+        "term": "Wat Pra Singh",
+        "data": {
+          "dest_id": "65df1e7a-d6d4-4b95-7bc1-aba1a9f76fc4",
+          "longitude": 99.831365,
+          "latitude": 19.910885,
+          "type": "monument",
+          "city": "Chiang Rai",
+          "country": "Thailand",
+          "state": "",
+          "hotel_count": 16
+        },
+        "score": 0
+      },
+      {
+        "id": 9626,
+        "term": "Sinaia Ski Resort",
+        "data": {
+          "dest_id": "e222b9a3-90d2-4b9f-4d65-5a6611216805",
+          "longitude": 25.4951,
+          "latitude": 45.35933,
+          "type": "skiing",
+          "city": "Sinaia",
+          "country": "Romania",
+          "state": "",
+          "hotel_count": 2
+        },
+        "score": 0
+      },
+      {
+        "id": 9624,
+        "term": "Sinaia Monastery",
+        "data": {
+          "dest_id": "e222b9a3-90d2-4b9f-4d65-5a6611216805",
+          "longitude": 25.548688,
+          "latitude": 45.355413,
+          "type": "monument",
+          "city": "Sinaia",
+          "country": "Romania",
+          "state": "",
+          "hotel_count": 2
+        },
+        "score": 0
+      },
+      {
+        "id": 88932,
+        "term": "City and Mimar Sinan Museum",
+        "data": {
+          "dest_id": "cdb48336-31dc-4c9b-55b4-0fc34206db31",
+          "longitude": 35.491236,
+          "latitude": 38.747067,
+          "type": "museums",
+          "city": "Kayseri",
+          "country": "Turkey",
+          "state": "",
+          "hotel_count": 4
+        },
+        "score": 0
+      },
+      {
+        "id": 87302,
+        "term": "Katra Jaimal Singh Market",
+        "data": {
+          "dest_id": "5b3010d8-dfcf-4583-48b7-28f2df2a211c",
+          "longitude": 74.8766,
+          "latitude": 31.626066,
+          "type": "shopping",
+          "city": "Amritsar",
+          "country": "India",
+          "state": "",
+          "hotel_count": 6
+        },
+        "score": 0
+      }
+    ],
+    "hotel": [
+      {
+        "id": 76594,
+        "term": "Park Regis Singapore",
+        "data": {
+          "hotel_id": "6c47e9db-cc00-404e-7fa1-8bc3d3f7414a",
+          "dest_id": "f75a8cff-c26e-4603-7b45-1b0f8a5aa100",
+          "longitude": "103.8445",
+          "latitude": "1.2881",
+          "type": "hotel",
+          "city": "Singapore",
+          "country": "Singapore",
+          "state": ""
+        },
+        "score": 157126
+      },
+      {
+        "id": 118552,
+        "term": "Concorde Hotel Singapore",
+        "data": {
+          "hotel_id": "4a1d454a-771f-4335-6496-ad4ad904432e",
+          "dest_id": "f75a8cff-c26e-4603-7b45-1b0f8a5aa100",
+          "longitude": "103.842224",
+          "latitude": "1.300618",
+          "type": "hotel",
+          "city": "Singapore",
+          "country": "Singapore",
+          "state": ""
+        },
+        "score": 156887
+      },
+      {
+        "id": 125639,
+        "term": "Rendezvous Grand Hotel Singapore",
+        "data": {
+          "hotel_id": "9c594ac8-7eb4-44a6-7b7f-26e2d9406dfd",
+          "dest_id": "f75a8cff-c26e-4603-7b45-1b0f8a5aa100",
+          "longitude": "103.849189",
+          "latitude": "1.298657",
+          "type": "hotel",
+          "city": "Singapore",
+          "country": "Singapore",
+          "state": ""
+        },
+        "score": 152143
+      },
+      {
+        "id": 47878,
+        "term": "Orchard Hotel Singapore",
+        "data": {
+          "hotel_id": "bca992ee-38c7-49c3-4217-0c974837afc6",
+          "dest_id": "f75a8cff-c26e-4603-7b45-1b0f8a5aa100",
+          "longitude": "103.82849",
+          "latitude": "1.30755",
+          "type": "hotel",
+          "city": "Singapore",
+          "country": "Singapore",
+          "state": ""
+        },
+        "score": 150994
+      },
+      {
+        "id": 37460,
+        "term": "Raffles Hotel Singapore",
+        "data": {
+          "hotel_id": "8cca1ec5-f945-4880-7d57-afb0f7c9a74f",
+          "dest_id": "f75a8cff-c26e-4603-7b45-1b0f8a5aa100",
+          "longitude": "103.854585",
+          "latitude": "1.294879",
+          "type": "hotel",
+          "city": "Singapore",
+          "country": "Singapore",
+          "state": ""
+        },
+        "score": 148557
+      }
+    ]
+  }
+}
